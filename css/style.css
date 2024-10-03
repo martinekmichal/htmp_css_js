@@ -1,0 +1,44 @@
+main {
+	border-style: solid;
+	border-width: 2px;
+	border-color: red;
+
+
+}
+nav {
+	border-style: dotted;
+	border-width: 5px;
+	border-color: red;
+
+
+}
+
+img, .borders  {
+	border-with: 5px;
+	border-style: double;
+	border-radius: 20px;
+}
+
+nav.footer {
+	background-color: green;	
+}
+
+body {
+   	background-image: url("https://www.fandimefilmu.cz/files/images/2022/04/17/article_main_gf59xlac9o4441hr.jpg");
+   	background-position: center;
+   	background-repeat: no-repeat;
+   	background-size: cover;
+	/* background-color: lightblue; */
+}
+
+article {
+	border-style: double;
+	border-width: 20px;
+	border-color: violet;
+}
+
+section {
+	border-style: dotted;
+	border-width: 3px;
+	border-color: red;
+}
